@@ -1,0 +1,6 @@
+{
+  "trailingComma": "es5", // versão do ES
+  "tabWidth": 4, // espaço do tab até o início do código
+  "semi": false, // aparecer ponto e virgula no código false ou true
+  "singleQuote": true // aspas duplas ou simples
+}
